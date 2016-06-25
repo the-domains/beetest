@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is at est
-datePublished: '2016-06-25T17:20:16.053Z'
-dateModified: '2016-06-25T17:19:51.271Z'
+datePublished: '2016-06-25T17:19:42.650Z'
+dateModified: '2016-06-25T17:19:09.065Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-25-this-is-at-est.md
